@@ -12,19 +12,19 @@
     padding-top: 40px;
     font-size: 35px;
     font-style: impact;
-    position: fixed;
+    position:fixed;
 }
 .fotcab{
     width: 120px;
     height: 85px;
     float:left;
-    margin-left:4%;
+    margin-left:5%;
 }
 .titcab{
     width: 450px;
     height:85px;
     float:left;
-    margin-left: 25%;
+    margin-left: 30%;
     margin-top: -19px;
 }
 * {
@@ -34,24 +34,24 @@
 }
 #menu{
     width:17%;
-    height:760px;
+    height:1000px;
     background-color: rgb(112, 7, 7);
     float: left;
     margin-top: -875px;
-    position: fixed;
+    position:fixed;
 }
 
 #videoinicio{
     width:83%;
-    height:760px;
-    background-color: white;
+    height:1000px;
+    background-color: rgb(255, 255, 255);
     margin-right: 0.2%;
     margin-top: -875px;
     float: right;
 }
 
 .opciones{
-    margin-top: 25px;
+    margin-top: 50px;
     background-color: black;
     color: white;
     border: 1px solid white;
@@ -77,13 +77,13 @@ a{
 
 #rrss{
     color:white;
-    margin-top: 42px;
+    margin-top: 60px;
     margin-left: 15px;
 }
 
 .insta{
     width:40px;
-    margin-left: 43px;
+    margin-left: 25%;
     margin-top: 20px;
 }
 
@@ -113,6 +113,7 @@ p{
     margin-left: 50px;
     font-family: Arial, Helvetica, sans-serif;
     margin-top: 30px;
+    margin-right: 40px;
 }
 .sw{
     height: 160px;

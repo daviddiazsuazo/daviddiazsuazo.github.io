@@ -1,5 +1,5 @@
 #web{
-    height: 1000px;
+    height: 1090px;
     width: 99.8%;
 }
 #cabecera{
@@ -17,13 +17,13 @@
     width: 120px;
     height: 85px;
     float:left;
-    margin-left:4%;
+    margin-left:5%;
 }
 .titcab{
     width: 450px;
     height:85px;
     float:left;
-    margin-left: 25%;
+    margin-left: 30%;
     margin-top: -19px;
 }
 * {
@@ -34,23 +34,23 @@
 }
 #menu{
     width:17%;
-    height:760px;
+    height:1000px;
     background-color: rgb(112, 7, 7);
     float: left;
-    margin-top: -875px;
+    margin-top: -966px;
 }
 
 #videoinicio{
     width:83%;
-    height:760px;
+    height:1000px;
     background-color: rgb(112, 7, 7);
     margin-right: 0.2%;
-    margin-top: -875px;
+    margin-top: -1000px;
     float: right;
 }
 
 .opciones{
-    margin-top: 25px;
+    margin-top: 50px;
     background-color: black;
     color: white;
     border: 1px solid white;
@@ -76,13 +76,13 @@ a{
 
 #rrss{
     color:white;
-    margin-top: 42px;
+    margin-top: 60px;
     margin-left: 15px;
 }
 
 .insta{
     width:40px;
-    margin-left: 19%;
+    margin-left: 25%;
     margin-top: 20px;
 }
 
@@ -99,9 +99,9 @@ a{
 }
 
 .lndp{
-    height: 760px;
-    width:96%;
+    height: 900px;
+    width:98%;
     margin-left: 10px;
-    margin-top: -20px;
+    margin-top: 27px;
 }
 
